@@ -1,4 +1,6 @@
-# create-svelte
+# Svelte App
+
+A simple todo app to test svelte for work. Run `npm install` then `npm run dev`. Check out the tutorial [`here`](https://www.youtube.com/watch?v=YipaPr4Aex8).
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
